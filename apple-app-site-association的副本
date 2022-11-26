@@ -1,9 +1,0 @@
-{
-    "applinks": {
-        "apps": [],
-        "details": [{
-            "appID": "com.tapinpet.enterprise",
-            "paths": ["/xianglong/*"]
-        }]
-    }
-}
